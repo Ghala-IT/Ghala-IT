@@ -30,12 +30,12 @@
 
 ---
 
-### 🚀 Upcoming Practical Projects
+### 🚀 Practical Projects
 
-| Project | Focus Area | Status |
-| :--- | :--- | :--- |
-| 🔐 **Password & Policy Audit Engine** | Application Security | In Development |
-| 🗄️ **Secure Database Design** | Data & Access Control | Planned |
+| Project | Focus Area | Status | Description |
+| :--- | :--- | :--- | :--- |
+| 🎣 **Phishing URL Detection Web App** | Web & Threat Security | In Progress | A web-based tool aimed at analyzing URLs, inspecting domain attributes, and identifying common phishing patterns. |
+| 🔐 **Password & Policy Audit Engine** | Application Security | Planned | Security tool designed for entropy calculation, policy enforcement, and hashed storage verification. |
 
 ---
 
