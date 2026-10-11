@@ -1,8 +1,6 @@
 # Hi there, I'm Ghala 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 > **Information Technology Student** passionate about **Cybersecurity**, **Threat Analysis**, and **Defensive Security Operations**. Focused on understanding how systems operate under the hood to build robust digital defenses.
 
